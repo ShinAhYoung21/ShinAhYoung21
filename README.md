@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development, especially HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: <a href="https://archive-shin.tistory.com/">my blog</a>
+- 📫 How to reach me: <a href="https://archive-shin.tistory.com/" target="_blank">my blog</a>
 
 <!---
 ShinAhYoung21/ShinAhYoung21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
