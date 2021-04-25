@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Web Development, especially HTML, CSS, JavaScript.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: <a href="https://www.instagram.com/programmer_shinah/" target="_blank">Instagram</a> or <a href="https://brunch.co.kr/magazine/this">my essay magazine</a>
+- 📫 How to reach me: [Instagram](https://www.instagram.com/programmer_shinah/){:target="_blank"} or [My studying essay_Brunch](https://brunch.co.kr/magazine/this){:target="_blank"}
 
 <!---
 ShinAhYoung21/ShinAhYoung21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
